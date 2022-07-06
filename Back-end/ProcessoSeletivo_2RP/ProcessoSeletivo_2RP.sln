@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessoSeletivo_2RP", "ProcessoSeletivo_2RP\ProcessoSeletivo_2RP.csproj", "{9B48E01B-EEC5-41E3-ACFF-B2F3D29EEBD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B48E01B-EEC5-41E3-ACFF-B2F3D29EEBD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B48E01B-EEC5-41E3-ACFF-B2F3D29EEBD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B48E01B-EEC5-41E3-ACFF-B2F3D29EEBD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B48E01B-EEC5-41E3-ACFF-B2F3D29EEBD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75582C20-56FA-4B80-80CC-C2F4B970EE78}
+	EndGlobalSection
+EndGlobal
